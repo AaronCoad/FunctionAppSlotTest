@@ -1,0 +1,6 @@
+infra/provider.tf
+**/[Bb]in
+**/[Oo]bj
+**/.terraform*
+**/terraform.tfstate*
+SECRET.MD
